@@ -5,5 +5,5 @@
 
 from __future__ import absolute_import, division, print_function, unicode_literals
 
-from easyhid.easyhid import *
-from easyhid.version import __version__
+from .easyhid import *
+from .version import __version__
